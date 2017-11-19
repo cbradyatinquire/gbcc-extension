@@ -1,0 +1,61 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunAnyCode.java)[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunTurtleCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunPatchCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunObserverCode.java)[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/CompilePatchCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/CompileTurtleCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/GbccExtension.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/CompileObserverCode.java)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunAnyCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/CompilePatchCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/CompileTurtleCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/GbccExtension.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/CompileObserverCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunTurtleCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunPatchCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunObserverCode.java)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunAnyCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/CompilePatchCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/CompileTurtleCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/GbccExtension.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/CompileObserverCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunTurtleCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunPatchCode.java, /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunObserverCode.java)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 15 sources: invalidated sources (8) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 15 Java sources to /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@1a82e874 directly...[0m
+[0m[[0mdebug[0m] [0mJava compilation took 0.660192258 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.153970168 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 0.817860771 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunAnyCode.java...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunAnyCode.java...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunAnyCode.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunAnyCode.java)[0m
+[0m[[0mdebug[0m] [0mThe /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunAnyCode.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	RunAnyCode, notify, getSyntax, wait, equals, notifyAll, <init>, perform, toString, getClass, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunTurtleCode.java...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunTurtleCode.java...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunTurtleCode.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunTurtleCode.java)[0m
+[0m[[0mdebug[0m] [0mThe /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunTurtleCode.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, getSyntax, wait, RunTurtleCode, equals, notifyAll, <init>, perform, toString, getClass, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunTurtleCode.java[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/GbccExtension.java[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunPatchCode.java...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunPatchCode.java...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunPatchCode.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunPatchCode.java)[0m
+[0m[[0mdebug[0m] [0mThe /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunPatchCode.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, getSyntax, wait, equals, notifyAll, <init>, perform, toString, getClass, RunPatchCode, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunPatchCode.java[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/GbccExtension.java[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunObserverCode.java...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunObserverCode.java...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunObserverCode.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunObserverCode.java)[0m
+[0m[[0mdebug[0m] [0mThe /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunObserverCode.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, getSyntax, wait, equals, notifyAll, <init>, perform, toString, getClass, RunObserverCode, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/GbccExtension.java[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/RunObserverCode.java[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/GbccExtension.java)[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/src/main/java/GbccExtension.java)[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

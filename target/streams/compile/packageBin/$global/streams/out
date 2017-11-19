@@ -1,0 +1,37 @@
+[0m[[0minfo[0m] [0mPackaging /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/gbcc.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	CompileTurtleCode.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/CompileTurtleCode.class[0m
+[0m[[0mdebug[0m] [0m	BroadcastToGallery.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/BroadcastToGallery.class[0m
+[0m[[0mdebug[0m] [0m	IntegerList.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/IntegerList.class[0m
+[0m[[0mdebug[0m] [0m	RunPatchCode.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/RunPatchCode.class[0m
+[0m[[0mdebug[0m] [0m	CompilePatchCode.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/CompilePatchCode.class[0m
+[0m[[0mdebug[0m] [0m	RunTurtleCode.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/RunTurtleCode.class[0m
+[0m[[0mdebug[0m] [0m	RestoreGlobalsFromUser.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/RestoreGlobalsFromUser.class[0m
+[0m[[0mdebug[0m] [0m	Set.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/Set.class[0m
+[0m[[0mdebug[0m] [0m	GbccExtension.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/GbccExtension.class[0m
+[0m[[0mdebug[0m] [0m	StoreGlobals.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/StoreGlobals.class[0m
+[0m[[0mdebug[0m] [0m	ImportDrawing.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/ImportDrawing.class[0m
+[0m[[0mdebug[0m] [0m	CompileObserverCode.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/CompileObserverCode.class[0m
+[0m[[0mdebug[0m] [0m	Get.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/Get.class[0m
+[0m[[0mdebug[0m] [0m	RestoreGlobals.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/RestoreGlobals.class[0m
+[0m[[0mdebug[0m] [0m	RunObserverCode.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/RunObserverCode.class[0m
+[0m[[0mdebug[0m] [0m	SampleExtension.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/SampleExtension.class[0m
+[0m[[0mdebug[0m] [0m	GetFromUser.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cbrady/Documents/InquireLearning/research/GBCC/Extension/gbcc/target/scala-2.11/classes/GetFromUser.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
