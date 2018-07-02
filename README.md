@@ -1,5 +1,5 @@
 
-## Graph Extension for GbCC authoring in NetLogo
+## GBCC Extension for GbCC authoring in NetLogo
 The gbcc extension a part of the Group based Cloud Computing (GbCC) project, and it assists in authoring web-based activities combining NetLogo and GeoGebra.  
 
 
