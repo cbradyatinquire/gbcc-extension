@@ -18,8 +18,6 @@ end
 to test2
   gbcc:set "key" "show \"value\""
   let val gbcc:get "key"
-
-
 end
 
 
@@ -28,7 +26,12 @@ to gbcc-on-select [student-id]
   gbcc:store-globals
   gbcc:restore-globals
   gbcc:restore-globals-from-user student-id
-  gbcc:broadcast-to-gallery "view" ""
+
+  gbcc:broadcast-avatar "star" 15 "my-name"
+  gbcc:broadcast-plot "my-plot-name"
+  gbcc:broadcast-text "my-text"
+  gbcc:broadcast-view "my-view"
+  gbcc:clear-broadcast
 end
 @#$#@#$#@
 GRAPHICS-WINDOW
@@ -410,7 +413,7 @@ false
 Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
 @#$#@#$#@
-NetLogo 6.0.2
+NetLogo 6.0.4
 @#$#@#$#@
 @#$#@#$#@
 @#$#@#$#@

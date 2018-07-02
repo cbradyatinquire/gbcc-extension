@@ -6,8 +6,8 @@ public class RestoreGlobalsFromUser implements Command {
 
   public Syntax getSyntax() {
     return SyntaxJ.commandSyntax(
-		new int[] {Syntax.NumberType()});
-		//user-id
+		new int[] {Syntax.StringType()});
+		//user-id - now a STRING
   }
   public void perform(Argument args[], Context context)
       throws ExtensionException {

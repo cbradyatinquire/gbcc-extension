@@ -7,7 +7,7 @@ public class RunPatchCode implements Command {
   public Syntax getSyntax() {
     return SyntaxJ.commandSyntax(
 		new int[] {Syntax.NumberType(), Syntax.NumberType(), Syntax.StringType()});
-		//patchx, patchy, the key under which the code was stored
+		//patchx, patchy,  key under which the code was stored
   }
 
   public void perform(Argument args[], Context context)
