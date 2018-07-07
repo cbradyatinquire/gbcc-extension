@@ -24,7 +24,13 @@ public class GbccExtension extends DefaultClassManager {
 	
 	primitiveManager.addPrimitive("who-am-i", new WhoAmI());
 	
-//  primitiveManager.addPrimitive("broadcast-to-gallery", new BroadcastToGallery());	
-//	primitiveManager.addPrimitive("import-drawing", new ImportDrawing());
+	primitiveManager.addPrimitive("show-patches", new ShowPatches());
+	primitiveManager.addPrimitive("hide-patches", new HidePatches());
+	
+	primitiveManager.addPrimitive("add-to-stream", new AddToStream());
+	primitiveManager.addPrimitive("get-stream", new GetStream());
+	primitiveManager.addPrimitive("get-stream-from-user", new GetStreamFromUser());
+	
+
   }
 }
