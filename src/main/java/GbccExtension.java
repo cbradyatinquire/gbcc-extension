@@ -31,6 +31,32 @@ public class GbccExtension extends DefaultClassManager {
 	primitiveManager.addPrimitive("get-stream", new GetStream());
 	primitiveManager.addPrimitive("get-stream-from-user", new GetStreamFromUser());
 	
-
+	primitiveManager.addPrimitive("send", new Send());
+	primitiveManager.addPrimitive("broadcast", new Broadcast());
+	
+	//December21 2018
+	primitiveManager.addPrimitive("clear-broadcasts", new ClearBroadcasts());
+	primitiveManager.addPrimitive("my-role", new MyRole());
+	primitiveManager.addPrimitive("get-user-list", new GetUserList());
+	primitiveManager.addPrimitive("get-active-user-list", new GetActiveUserList());
+	primitiveManager.addPrimitive("adopt-canvas", new AdoptCanvas());
+	primitiveManager.addPrimitive("mute-canvas", new MuteCanvas());
+	primitiveManager.addPrimitive("unmute-canvas", new UnmuteCanvas());
+	primitiveManager.addPrimitive("get-canvas-list", new GetCanvasList());
+	primitiveManager.addPrimitive("get-vacant-indices", new GetVacantIndices());
+	
+	primitiveManager.addPrimitive("import-our-data", new ImportOurData());
+	primitiveManager.addPrimitive("import-our-data-file", new ImportOurDataFile());
+	
+	primitiveManager.addPrimitive("import-my-data", new ImportMyData());
+	primitiveManager.addPrimitive("import-my-data-file", new ImportMyDataFile());
+	
+	primitiveManager.addPrimitive("export-our-data", new ExportportOurData());
+	primitiveManager.addPrimitive("export-my-data", new ExportportMyData());
+	
+	//December 22 2018 
+	primitiveManager.addPrimitive("store-state", new StoreState());
+	primitiveManager.addPrimitive("restore-state", new RestoreState());
+	primitiveManager.addPrimitive("restore-state-from-user", new RestoreStateFromUser());
   }
 }
